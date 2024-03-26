@@ -1,0 +1,46 @@
+.offers-sub{
+    background-color: rgb(245, 245, 190);
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+} 
+
+.offers-scroll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow: scroll hidden;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    background: linear-gradient(to right, #141e30, #243b55);
+    
+
+    border-radius: 10px;
+}
+
+.offers-scroll div{
+    color: aliceblue;
+    /* background:url(https://www.behindwoods.com/tamil-movies/slideshow/when-kollywood-heroes-turned-teachers/images/vijayakanth-in-ramana.jpg); */
+    /* height: 25px;
+    width: 100px; */
+    padding: 30px;
+    margin-left: 5px;
+    border-radius: 15px;
+}
+
+.offers-content{
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: #ffa31a;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.vjk{
+    height: 120px;
+    width:140px;
+    border-radius: 10px;
+}
+
